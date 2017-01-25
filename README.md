@@ -1,5 +1,7 @@
 # gitTest - updated
 git config
+git new line?
+
 git init
 git clone git@github.com:user/test.git
 git add .
